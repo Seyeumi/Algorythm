@@ -5,7 +5,7 @@ public class QuickUnionFind
     public QuickUnionFind(int n){
         id = new int[n];
         for (int i = 0; i < n; i++)
-        {
+        {   
             id[i] = i;
         }
 
