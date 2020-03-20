@@ -1,5 +1,7 @@
-Find API [here](https://rawgit.com/cphbus-algorithms/airport-template/master/target/site/apidocs/index.html)
+[Direct link](github.com/Seyeumi/Algorythm/blob/master/Assignment3/src/main/java/dk/cphbusiness/algorithm/examples/queues/pQueue.java)
 
- 1. Create a priority queue instead of the `NotPrioritisingPassengerArrayQueue` used now
- 2. Experiment with other values for producer and consumer
- 3. Try to add more than one consumer
+ 
+
+ Made by:
+ Oliver Lønning
+ Mathias Igel
